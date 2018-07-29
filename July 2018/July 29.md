@@ -36,3 +36,8 @@ Atom, Chrome 개발환경에서 시작!
 9. The packets don't care how they get to you, just the final location. (what they really care about is the fastest way to get back to your destination at your home IP address)
 10. Once the packets reach you, they are reassembled to show the page.
 11. All of this moves at close to the speed of light, so it happens very fast.
+
+There are two main components of a website, 'The Front-End' and 'The Back-End'.
+
+The Front-End : what you see as a user on the website  
+The Back-End : the technology used to actually decide what to show you on the Front-End
